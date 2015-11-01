@@ -11,8 +11,8 @@ After requiring the module, the extended `console.table` functionality will be a
 accept the following paramters: `console.table(array, alignment, preProcessors)`:
 
  - `array`, the array containing the JSON objects to be printed out
- - `alignment` the string, indication the alignment of each row
- - `preProcessors` an array of pre processor functions
+ - `alignment`, the string, indication the alignment of each row
+ - `preProcessors`, an array of pre processor functions
 
 ```javascript
 var tab = require('table-master');
@@ -89,3 +89,19 @@ console.table(employees, "llr", [
 ```
 
 ![Example 4](https://raw.githubusercontent.com/deepsource/table-master/master/samples/ex4.png)
+
+## Default settings 
+
+You can modify the spacing of the output by overriding the default settings:
+
+ - `indent`, indentation at the begin of each line
+ - `rowSpace`, spacing between the columns
+ 
+ ```javascript
+ var tab   = require('table-master');
+ 
+ tab.setDefaults({
+    indent  : 3, // indentation at the begin of each line
+    rowSpace: 1  // spacing between the columns
+ }); 
+ ```
