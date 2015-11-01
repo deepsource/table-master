@@ -1,0 +1,33 @@
+{
+  "name": "table-master",
+  "version": "1.0.0",
+  "description": "Brings console.table features to node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepsource/table-master.git"
+  },
+  "keywords": [
+    "console.table",
+    "table",
+    "color",
+    "tab",
+    "colour",
+    "color",
+    "table",
+    "chalk",
+    "pre",
+    "processors",
+    "alignment",
+    "align"
+  ],
+  "author": "Sebastian Ullrich <sebastian.ullrich@deepsource.de> (http://deepsource.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deepsource/table-master/issues"
+  },
+  "homepage": "https://github.com/deepsource/table-master#readme"
+}
