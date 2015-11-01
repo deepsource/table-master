@@ -48,7 +48,7 @@ console.table(employees);
 
 ## Alignment
 
-You can align the values of the table. Available options are *__r__ight*, *__l__eft* or *__c__enter*.
+You can align the values of the table. Available options are __r__ight, __l__eft or __c__enter.
 
 ```javascript
 var tab = require('table-master');
