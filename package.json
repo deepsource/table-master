@@ -1,6 +1,6 @@
 {
   "name": "table-master",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Brings console.table features to node.js",
   "main": "index.js",
   "scripts": {
