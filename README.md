@@ -1,5 +1,5 @@
 # table-master
-Brings extended log.table functionality to command line interfaces. This module supports __*alignment*__, __*colour support*__, 
+Brings extended log.table functionality to command line interfaces. This module supports __*alignment*__, __*colours*__, 
 and __*pre processors*__.
 
 ## The basic console.table 
