@@ -1,4 +1,7 @@
 # table-master
+
+[![deepsource crafted](http://cdn.deepsource.de/svg/deepsource-crafted.svg)](http://deepsource.de)
+
 Brings extended log.table functionality to command line interfaces. This module supports __*alignment*__, __*colours*__, 
 and __*pre processors*__.
 
