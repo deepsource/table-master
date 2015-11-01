@@ -2,8 +2,8 @@
 
 [![deepsource crafted](http://cdn.deepsource.de/svg/deepsource-crafted.svg)](http://deepsource.de)
 
-Brings extended log.table functionality to command line interfaces. This module supports __*alignment*__, __*colours*__, 
-and __*pre processors*__.
+Brings extended log.table functionality to command line interfaces. This module supports *alignment*, *colours*, 
+and *pre processors*.
 
 ## The basic console.table 
 
@@ -48,7 +48,7 @@ console.table(employees);
 
 ## Alignment
 
-You can align the values of the table. Available options are __*(r)ight*__, __*(l)eft*__ or __*(c)enter*__.
+You can align the values of the table. Available options are *(r)ight*, *(l)eft* or *(c)enter*.
 
 ```javascript
 var tab = require('table-master');
