@@ -23,7 +23,7 @@ var employees = [
 console.table(employees);
 ```
 
-!(https://raw.githubusercontent.com/deepsource/table-master/master/samples/ex1.png)
+![Example 1](https://raw.githubusercontent.com/deepsource/table-master/master/samples/ex1.png)
 
 ## Colour support
 
@@ -41,7 +41,7 @@ var employees = [
 console.table(employees);
 ```
 
-!(https://raw.githubusercontent.com/deepsource/table-master/master/samples/ex2.png)
+![Example 2](https://raw.githubusercontent.com/deepsource/table-master/master/samples/ex2.png)
 
 ## Alignment
 
@@ -59,7 +59,7 @@ var employees = [
 console.table(employees, "lclr"); // Yes, I'm a LaTeX guy :)
 ```
 
-!(https://raw.githubusercontent.com/deepsource/table-master/master/samples/ex3.png)
+![Example 3](https://raw.githubusercontent.com/deepsource/table-master/master/samples/ex3.png)
 
 ## Pre processors
 
@@ -85,4 +85,4 @@ console.table(employees, "llr", [
 ]);
 ```
 
-!(https://raw.githubusercontent.com/deepsource/table-master/master/samples/ex4.png)
+![Example 4](https://raw.githubusercontent.com/deepsource/table-master/master/samples/ex4.png)
