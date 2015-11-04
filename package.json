@@ -1,6 +1,6 @@
 {
   "name": "table-master",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Brings console.table features to node.js",
   "main": "index.js",
   "scripts": {
@@ -29,5 +29,8 @@
   "bugs": {
     "url": "https://github.com/deepsource/table-master/issues"
   },
-  "homepage": "https://github.com/deepsource/table-master#readme"
+  "homepage": "https://github.com/deepsource/table-master#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
 }
